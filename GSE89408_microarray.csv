@@ -1,0 +1,2 @@
+experiment_id,platform_id,suppfile,ftplink,affy,rnaseq
+GSE89408,GPL11154,TXT,ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE89nnn/GSE89408/,False,True

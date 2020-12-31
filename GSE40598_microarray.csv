@@ -1,0 +1,2 @@
+experiment_id,platform_id,suppfile,ftplink,affy,rnaseq
+GSE40598,GPL5854,"GPR, MEV",ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40598/,False,False
