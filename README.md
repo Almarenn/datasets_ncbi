@@ -1,5 +1,5 @@
 # datasets_ncbi
-Program recieves inforamtion for GSE or PRJNA identifiers from ncbi.
+Program returns inforamtion for GSE or PRJNA identifiers from ncbi.
 
 Usage:
 python datasets_ncbi.py [email] [identifier]
